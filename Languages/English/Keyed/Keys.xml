@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RqRCFA_Label_TechLevelThreshold>CostFactor increase threshold:</RqRCFA_Label_TechLevelThreshold>
+	<RqRCFA_Label_TechLevelThresholdDesc>The value above which the difference in the project's and researcher's tech levels ceases to affect the final cost of the research project.</RqRCFA_Label_TechLevelThresholdDesc>
+	<RqRCFA_Label_TechLevelFactor>Tech levels difference factor:</RqRCFA_Label_TechLevelFactor>
+	<RqRCFA_Label_TechLevelFactorDesc>The value that is multiplied by the difference in the project's and researcher's tech levels is the coefficient of the research project's cost.</RqRCFA_Label_TechLevelFactorDesc>
+
+	<RqRCFA_Label_CostIncrease>CostFactor increase:</RqRCFA_Label_CostIncrease>
+	<RqRCFA_Label_CostIncreaseDesc>Increase in the project cost depending on the difference in the project's and researcher's tech levels.</RqRCFA_Label_CostIncreaseDesc>
+	<RqRCFA_RB_Linear>Linear</RqRCFA_RB_Linear>
+	<RqRCFA_RB_Exponential>Exponential</RqRCFA_RB_Exponential>
+	<RqRCFA_Label_CostFactorExplanationDesc>R - Result cost value\nB - Base cost value\nD - Tech levels difference\nF - Difference factor</RqRCFA_Label_CostFactorExplanationDesc>
+
+	<RqRCFA_Button_GameDefault>Set the game default values</RqRCFA_Button_GameDefault>
+	<RqRCFA_Button_ModsDefault>Set the mod's default values</RqRCFA_Button_ModsDefault>
+
+	<RqRCFA_Label_TechLevelResearcher>Researcher's tech level</RqRCFA_Label_TechLevelResearcher>
+	<RqRCFA_Label_TechLevelProject>Research project tech level</RqRCFA_Label_TechLevelProject>
+	<RqRCFA_Label_TableDesc>Table of research project cost values, assuming the base cost is 1000.</RqRCFA_Label_TableDesc>
+
+</LanguageData>

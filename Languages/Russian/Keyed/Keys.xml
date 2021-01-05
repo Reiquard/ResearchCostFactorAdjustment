@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RqRCFA_Label_TechLevelThreshold>Порог увеличения стоимости:</RqRCFA_Label_TechLevelThreshold>
+	<RqRCFA_Label_TechLevelThresholdDesc>Значение, выше которого разница технических уровней проекта и учёного перестаёт влиять на итоговую стоимость исследовательского проекта.</RqRCFA_Label_TechLevelThresholdDesc>
+	<RqRCFA_Label_TechLevelFactor>Коэффициент разницы технических уровней:</RqRCFA_Label_TechLevelFactor>
+	<RqRCFA_Label_TechLevelFactorDesc>Значение, которое, будучи помноженным на разницу технических уровней проекта и учёного, является коэффициентом стоимости исследовательского проекта.</RqRCFA_Label_TechLevelFactorDesc>
+
+	<RqRCFA_Label_CostIncrease>Увеличение стоимости проекта:</RqRCFA_Label_CostIncrease>
+	<RqRCFA_Label_CostIncreaseDesc>Увеличение стоимости проекта в зависимости от разницы технических уровней проекта и учёного.</RqRCFA_Label_CostIncreaseDesc>
+	<RqRCFA_RB_Linear>Линейное</RqRCFA_RB_Linear>
+	<RqRCFA_RB_Exponential>Экспоненциальное</RqRCFA_RB_Exponential>
+	<RqRCFA_Label_CostFactorExplanationDesc>R - Итоговая стоимость проекта\nB - Базовая стоимость проекта\nD - Разница тех. уровней\nF - Коэффициент разницы тех. уровней</RqRCFA_Label_CostFactorExplanationDesc>
+
+	<RqRCFA_Button_GameDefault>Установить базовые значения игры</RqRCFA_Button_GameDefault>
+	<RqRCFA_Button_ModsDefault>Установить базовые значения мода</RqRCFA_Button_ModsDefault>
+
+	<RqRCFA_Label_TechLevelResearcher>Тех. уровень учёного</RqRCFA_Label_TechLevelResearcher>
+	<RqRCFA_Label_TechLevelProject>Технический уровень исследовательского проекта</RqRCFA_Label_TechLevelProject>
+	<RqRCFA_Label_TableDesc>Таблица значений стоимости исследовательского проекта, полагая, что базовая стоимость равна 1000.</RqRCFA_Label_TableDesc>
+
+</LanguageData>
