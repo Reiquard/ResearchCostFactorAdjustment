@@ -11,6 +11,10 @@
 	<RqRCFA_RB_Linear>Линейное</RqRCFA_RB_Linear>
 	<RqRCFA_RB_Exponential>Экспоненциальное</RqRCFA_RB_Exponential>
 	<RqRCFA_Label_CostFactorExplanationDesc>R - Итоговая стоимость проекта\nB - Базовая стоимость проекта\nD - Разница тех. уровней\nF - Коэффициент разницы тех. уровней</RqRCFA_Label_CostFactorExplanationDesc>
+	<RqRCFA_RatioInversion>Разрешить снижение стоимости</RqRCFA_RatioInversion>
+	<RqRCFA_RatioInversionDesc>Сделать возможным удешевление проектов при превосходстве технического уровня учёного.</RqRCFA_RatioInversionDesc>
+	<RqRCFA_OverrideTechAdvancing>Примечание: активен мод "Tech Advancing"</RqRCFA_OverrideTechAdvancing>
+	<RqRCFA_OverrideTechAdvancingDesc>Изменения коэффициента стоимости проекта, вносимые модом "Tech Advancing", не будут иметь эффекта.</RqRCFA_OverrideTechAdvancingDesc>
 
 	<RqRCFA_Button_GameDefault>Установить базовые значения игры</RqRCFA_Button_GameDefault>
 	<RqRCFA_Button_ModsDefault>Установить базовые значения мода</RqRCFA_Button_ModsDefault>

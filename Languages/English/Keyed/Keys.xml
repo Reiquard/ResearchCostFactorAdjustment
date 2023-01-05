@@ -11,6 +11,10 @@
 	<RqRCFA_RB_Linear>Linear</RqRCFA_RB_Linear>
 	<RqRCFA_RB_Exponential>Exponential</RqRCFA_RB_Exponential>
 	<RqRCFA_Label_CostFactorExplanationDesc>R - Result cost value\nB - Base cost value\nD - Tech levels difference\nF - Difference factor</RqRCFA_Label_CostFactorExplanationDesc>
+	<RqRCFA_RatioInversion>Enable cost decrease</RqRCFA_RatioInversion>
+	<RqRCFA_RatioInversionDesc>Makes it possible to decrease the project cost with the superiority of the researcher's tech level.</RqRCFA_RatioInversionDesc>
+	<RqRCFA_OverrideTechAdvancing>Note: "Tech Advancing" mod is active</RqRCFA_OverrideTechAdvancing>
+	<RqRCFA_OverrideTechAdvancingDesc>Any CostFactor changes made by the "Tech Advancing" mod will have no effect.</RqRCFA_OverrideTechAdvancingDesc>
 
 	<RqRCFA_Button_GameDefault>Set the game default values</RqRCFA_Button_GameDefault>
 	<RqRCFA_Button_ModsDefault>Set the mod's default values</RqRCFA_Button_ModsDefault>
